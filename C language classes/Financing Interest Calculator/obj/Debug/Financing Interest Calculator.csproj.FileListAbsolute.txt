@@ -1,0 +1,11 @@
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\bin\Debug\Financing Interest Calculator.exe.config
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\bin\Debug\Financing Interest Calculator.exe
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\bin\Debug\Financing Interest Calculator.pdb
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing Interest Calculator.csproj.AssemblyReference.cache
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing Interest Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing_Interest_Calculator.Form1.resources
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing_Interest_Calculator.Properties.Resources.resources
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing Interest Calculator.csproj.GenerateResource.cache
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing Interest Calculator.csproj.CoreCompileInputs.cache
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing Interest Calculator.exe
+C:\Users\52062132840\source\repos\Financing Interest Calculator\Financing Interest Calculator\obj\Debug\Financing Interest Calculator.pdb
