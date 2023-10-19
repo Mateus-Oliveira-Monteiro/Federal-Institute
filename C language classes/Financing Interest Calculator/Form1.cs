@@ -44,7 +44,7 @@ namespace Financing_Interest_Calculator
 
         private void btnCalcularParcelas_Click(object sender, EventArgs e)
         {
-            double taxaDeJurosMes = Convert.ToDouble(lblTaxaDeJuros.Text) / 12;
+            double taxaDeJurosMes = (Convert.ToDouble(lblTaxaDeJuros.Text)/100) / 12;
             double valorDaParcela = Convert.ToDouble(lblValorPrincipal.Text) * (taxaDeJurosMes / (1 - Math.Pow(1 + Convert.ToDouble(lblTaxaDeJuros.Text), - Convert.ToDouble(lblNumeroParcelas.Text))));
             double totalPago = valorDaParcela * Convert.ToDouble(lblNumeroParcelas.Text);
             double valorDoJuros = totalPago - Convert.ToDouble(lblValorPrincipal.Text);
