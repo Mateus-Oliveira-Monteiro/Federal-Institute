@@ -1,0 +1,14 @@
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\bin\Debug\net6.0\ControleJogos.exe
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\bin\Debug\net6.0\ControleJogos.deps.json
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\bin\Debug\net6.0\ControleJogos.runtimeconfig.json
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\bin\Debug\net6.0\ControleJogos.dll
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\bin\Debug\net6.0\ControleJogos.pdb
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ControleJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ControleJogos.AssemblyInfoInputs.cache
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ControleJogos.AssemblyInfo.cs
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ControleJogos.csproj.CoreCompileInputs.cache
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ControleJogos.dll
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\refint\ControleJogos.dll
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ControleJogos.pdb
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ControleJogos.genruntimeconfig.cache
+C:\Users\teteus\Desktop\List 3\ControleJogos\AppColecaoJogos\obj\Debug\net6.0\ref\ControleJogos.dll
