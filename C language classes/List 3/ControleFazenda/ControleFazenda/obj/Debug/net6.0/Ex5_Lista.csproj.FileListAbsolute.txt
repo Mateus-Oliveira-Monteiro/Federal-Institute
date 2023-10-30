@@ -1,0 +1,14 @@
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\bin\Debug\net6.0\Ex5_Lista.exe
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\bin\Debug\net6.0\Ex5_Lista.deps.json
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\bin\Debug\net6.0\Ex5_Lista.runtimeconfig.json
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\bin\Debug\net6.0\Ex5_Lista.dll
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\bin\Debug\net6.0\Ex5_Lista.pdb
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\Ex5_Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\Ex5_Lista.AssemblyInfoInputs.cache
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\Ex5_Lista.AssemblyInfo.cs
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\Ex5_Lista.csproj.CoreCompileInputs.cache
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\Ex5_Lista.dll
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\refint\Ex5_Lista.dll
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\Ex5_Lista.pdb
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\Ex5_Lista.genruntimeconfig.cache
+C:\Projetos\cSharp\Ex5_Lista\Ex5_Lista\obj\Debug\net6.0\ref\Ex5_Lista.dll

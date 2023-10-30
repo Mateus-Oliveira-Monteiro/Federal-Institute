@@ -1,0 +1,14 @@
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.exe
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.deps.json
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.runtimeconfig.json
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.dll
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.pdb
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.AssemblyInfoInputs.cache
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.AssemblyInfo.cs
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.dll
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\refint\CadastroBiblioteca.dll
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.pdb
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.genruntimeconfig.cache
+C:\Users\teteus\source\repos\CadastroBiblioteca\CadastroBiblioteca\obj\Debug\net6.0\ref\CadastroBiblioteca.dll
