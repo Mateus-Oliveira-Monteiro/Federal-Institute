@@ -1,0 +1,15 @@
+
+Mateus:
+Astronauta, Módulo, Missão, Foguete,
+
+
+
+
+endrio:
+Mantimentos, Investimento, Oxigênio
+
+
+####Criar uns 3 atributos +/-👌
+#### Todos private
+#### todos com getters e setters ja👌
+#### Ja cria tmb m todos um método mostra(nome da classe) que vai mostrar todos os atributos de uma vez
